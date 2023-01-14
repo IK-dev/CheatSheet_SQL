@@ -8,3 +8,5 @@
 
 **TCL** is short name of Transaction Control Language which deals with transaction within a database.
 
+![SQL languages summary](https://k21academy.com/wp-content/uploads/2022/02/SQL_Diagram.png)
+
